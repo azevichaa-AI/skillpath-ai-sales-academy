@@ -1,0 +1,170 @@
+[
+  {
+    "competency_id": "need_discovery",
+    "role_id": "b2b_sales_manager",
+    "name": "Выявление потребности клиента",
+    "name_en": "Need Discovery",
+    "description": "Умение задавать открытые и уточняющие вопросы, выявлять бизнес-задачи, боль клиента, критерии выбора, ограничения и реальный контекст сделки.",
+    "weight": 1.0,
+    "tags": [
+      "need discovery",
+      "выявление потребности клиента"
+    ]
+  },
+  {
+    "competency_id": "lead_qualification",
+    "role_id": "b2b_sales_manager",
+    "name": "Квалификация клиента и сделки",
+    "name_en": "Lead Qualification",
+    "description": "Умение определить целевой сегмент, бюджет, потребность, полномочия, срочность, экономический смысл и потенциал сделки.",
+    "weight": 1.0,
+    "tags": [
+      "lead qualification",
+      "квалификация клиента и сделки"
+    ]
+  },
+  {
+    "competency_id": "value_presentation",
+    "role_id": "b2b_sales_manager",
+    "name": "Презентация ценности продукта",
+    "name_en": "Value Presentation",
+    "description": "Умение связывать продукт с бизнес-эффектом: рост выручки, снижение затрат, ускорение процессов, снижение рисков.",
+    "weight": 1.0,
+    "tags": [
+      "value presentation",
+      "презентация ценности продукта"
+    ]
+  },
+  {
+    "competency_id": "product_knowledge",
+    "role_id": "b2b_sales_manager",
+    "name": "Знание продукта",
+    "name_en": "Product Knowledge",
+    "description": "Умение объяснить продукт, ограничения, сценарии применения, преимущества, типовые внедрения и отличия от альтернатив.",
+    "weight": 1.0,
+    "tags": [
+      "product knowledge",
+      "знание продукта"
+    ]
+  },
+  {
+    "competency_id": "objection_handling",
+    "role_id": "b2b_sales_manager",
+    "name": "Работа с возражениями",
+    "name_en": "Objection Handling",
+    "description": "Умение уточнять природу возражения, не спорить с клиентом, отделять истинное возражение от отговорки и возвращать разговор к ценности.",
+    "weight": 1.0,
+    "tags": [
+      "objection handling",
+      "работа с возражениями"
+    ]
+  },
+  {
+    "competency_id": "negotiation",
+    "role_id": "b2b_sales_manager",
+    "name": "Переговоры",
+    "name_en": "Negotiation",
+    "description": "Умение вести переговоры без необоснованных скидок, защищать ценность, работать с условиями и обменивать уступки на обязательства.",
+    "weight": 1.0,
+    "tags": [
+      "negotiation",
+      "переговоры"
+    ]
+  },
+  {
+    "competency_id": "financial_argumentation",
+    "role_id": "b2b_sales_manager",
+    "name": "Финансовая аргументация",
+    "name_en": "Financial Argumentation",
+    "description": "Умение объяснять стоимость через ROI, экономический эффект, снижение потерь, рост продаж, сокращение времени и рисков.",
+    "weight": 1.0,
+    "tags": [
+      "financial argumentation",
+      "финансовая аргументация"
+    ]
+  },
+  {
+    "competency_id": "crm_discipline",
+    "role_id": "b2b_sales_manager",
+    "name": "CRM-дисциплина",
+    "name_en": "CRM Discipline",
+    "description": "Умение фиксировать этап сделки, контакты, договорённости, вероятность, следующий шаг и актуальные данные в CRM.",
+    "weight": 1.0,
+    "tags": [
+      "crm discipline",
+      "crm-дисциплина"
+    ]
+  },
+  {
+    "competency_id": "follow_up",
+    "role_id": "b2b_sales_manager",
+    "name": "Follow-up и сопровождение сделки",
+    "name_en": "Follow-up",
+    "description": "Умение своевременно возвращаться к клиенту, отправлять резюме встречи, фиксировать следующий шаг и поддерживать движение сделки.",
+    "weight": 1.0,
+    "tags": [
+      "follow up",
+      "follow-up и сопровождение сделки"
+    ]
+  },
+  {
+    "competency_id": "pipeline_management",
+    "role_id": "b2b_sales_manager",
+    "name": "Управление воронкой",
+    "name_en": "Pipeline Management",
+    "description": "Умение понимать этапы сделки, приоритеты, вероятность закрытия, узкие места, прогноз и действия по продвижению сделки.",
+    "weight": 1.0,
+    "tags": [
+      "pipeline management",
+      "управление воронкой"
+    ]
+  },
+  {
+    "competency_id": "stakeholder_mapping",
+    "role_id": "b2b_sales_manager",
+    "name": "Работа с лицами влияния",
+    "name_en": "Stakeholder Mapping",
+    "description": "Умение выявлять ЛПР, ЛВР, пользователей, финансовых согласующих и технических экспертов.",
+    "weight": 1.0,
+    "tags": [
+      "stakeholder mapping",
+      "работа с лицами влияния"
+    ]
+  },
+  {
+    "competency_id": "closing",
+    "role_id": "b2b_sales_manager",
+    "name": "Закрытие сделки",
+    "name_en": "Closing",
+    "description": "Умение корректно подводить клиента к решению, фиксировать договорённости, устранять последние риски и переводить интерес в контракт.",
+    "weight": 1.0,
+    "tags": [
+      "closing",
+      "закрытие сделки"
+    ]
+  },
+  {
+    "competency_id": "communication_quality",
+    "role_id": "b2b_sales_manager",
+    "name": "Качество деловой коммуникации",
+    "name_en": "Communication Quality",
+    "description": "Умение ясно, уважительно, структурно и убедительно вести переписку, созвоны, презентации и переговоры.",
+    "weight": 1.0,
+    "tags": [
+      "communication quality",
+      "качество деловой коммуникации"
+    ]
+  },
+  {
+    "competency_id": "ethics_compliance",
+    "role_id": "b2b_sales_manager",
+    "name": "Этика и стандарты продаж",
+    "name_en": "Ethics and Compliance",
+    "description": "Умение не искажать факты, не обещать невозможное, соблюдать стандарты компании и корректно работать с конфиденциальной информацией.",
+    "weight": 1.0,
+    "tags": [
+      "ethics compliance",
+      "этика и стандарты продаж"
+    ]
+  }
+]

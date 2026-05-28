@@ -1,0 +1,90 @@
+[
+  {
+    "profile_id": "new_manager",
+    "role_id": "b2b_sales_manager",
+    "name": "Новый менеджер",
+    "description": "Мотивирован, но не умеет структурно выявлять потребность, слабо ведёт CRM и теряется при возражениях.",
+    "scores": {
+      "need_discovery": 0,
+      "lead_qualification": 1,
+      "value_presentation": 1,
+      "product_knowledge": 1,
+      "objection_handling": 0,
+      "negotiation": 0,
+      "financial_argumentation": 0,
+      "crm_discipline": 0,
+      "follow_up": 1,
+      "pipeline_management": 0,
+      "stakeholder_mapping": 0,
+      "closing": 0,
+      "communication_quality": 1,
+      "ethics_compliance": 2
+    }
+  },
+  {
+    "profile_id": "working_manager",
+    "role_id": "b2b_sales_manager",
+    "name": "Рабочий менеджер",
+    "description": "Умеет вести базовые продажи, но не всегда связывает продукт с бизнес-эффектом, слабо аргументирует цену и забывает follow-up.",
+    "scores": {
+      "need_discovery": 2,
+      "lead_qualification": 2,
+      "value_presentation": 2,
+      "product_knowledge": 2,
+      "objection_handling": 1,
+      "negotiation": 1,
+      "financial_argumentation": 0,
+      "crm_discipline": 1,
+      "follow_up": 1,
+      "pipeline_management": 1,
+      "stakeholder_mapping": 1,
+      "closing": 1,
+      "communication_quality": 2,
+      "ethics_compliance": 3
+    }
+  },
+  {
+    "profile_id": "strong_manager",
+    "role_id": "b2b_sales_manager",
+    "name": "Сильный менеджер",
+    "description": "Уверенно ведёт сделку, хорошо работает с возражениями, требует точечной проверки финансовой аргументации и переговоров.",
+    "scores": {
+      "need_discovery": 3,
+      "lead_qualification": 3,
+      "value_presentation": 3,
+      "product_knowledge": 3,
+      "objection_handling": 3,
+      "negotiation": 2,
+      "financial_argumentation": 2,
+      "crm_discipline": 3,
+      "follow_up": 3,
+      "pipeline_management": 2,
+      "stakeholder_mapping": 2,
+      "closing": 3,
+      "communication_quality": 3,
+      "ethics_compliance": 3
+    }
+  },
+  {
+    "profile_id": "sales_team_lead",
+    "role_id": "b2b_sales_manager",
+    "name": "Руководитель группы продаж",
+    "description": "Хорошо понимает продажи, но нужно проверить управление воронкой, разбор сделок и контроль стандартов.",
+    "scores": {
+      "need_discovery": 3,
+      "lead_qualification": 3,
+      "value_presentation": 3,
+      "product_knowledge": 2,
+      "objection_handling": 3,
+      "negotiation": 3,
+      "financial_argumentation": 2,
+      "crm_discipline": 2,
+      "follow_up": 2,
+      "pipeline_management": 1,
+      "stakeholder_mapping": 2,
+      "closing": 3,
+      "communication_quality": 3,
+      "ethics_compliance": 3
+    }
+  }
+]

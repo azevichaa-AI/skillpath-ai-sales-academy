@@ -1,0 +1,53 @@
+[
+  {
+    "role_id": "b2b_sales_manager",
+    "name": "B2B Sales Manager",
+    "name_ru": "Менеджер по B2B-продажам",
+    "status": "active",
+    "description": "Менеджер полного цикла B2B-сделки: выявляет потребность, презентует ценность, ведёт переговоры, сопровождает сделку и фиксирует работу в CRM.",
+    "competency_ids": [
+      "need_discovery",
+      "lead_qualification",
+      "value_presentation",
+      "product_knowledge",
+      "objection_handling",
+      "negotiation",
+      "financial_argumentation",
+      "crm_discipline",
+      "follow_up",
+      "pipeline_management",
+      "stakeholder_mapping",
+      "closing",
+      "communication_quality",
+      "ethics_compliance"
+    ]
+  },
+  {
+    "role_id": "sdr_bdr",
+    "name": "SDR / BDR",
+    "name_ru": "Специалист по первичному поиску и квалификации лидов",
+    "status": "template",
+    "description": "Шаблон роли для расширения платформы."
+  },
+  {
+    "role_id": "account_executive",
+    "name": "Account Executive",
+    "name_ru": "Менеджер полного цикла сделки",
+    "status": "template",
+    "description": "Шаблон роли для расширения платформы."
+  },
+  {
+    "role_id": "key_account_manager",
+    "name": "Key Account Manager",
+    "name_ru": "Менеджер по ключевым клиентам",
+    "status": "template",
+    "description": "Шаблон роли для расширения платформы."
+  },
+  {
+    "role_id": "sales_team_lead",
+    "name": "Sales Team Lead",
+    "name_ru": "Руководитель группы продаж",
+    "status": "template",
+    "description": "Шаблон роли для расширения платформы."
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "material_id": "mat_need_discovery",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "need_discovery",
+    "title": "Выявление потребности клиента",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/need_discovery.md",
+    "tags": [
+      "need_discovery",
+      "Выявление потребности клиента",
+      "Need Discovery"
+    ]
+  },
+  {
+    "material_id": "mat_lead_qualification",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "lead_qualification",
+    "title": "Квалификация клиента и сделки",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/lead_qualification.md",
+    "tags": [
+      "lead_qualification",
+      "Квалификация клиента и сделки",
+      "Lead Qualification"
+    ]
+  },
+  {
+    "material_id": "mat_value_presentation",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "value_presentation",
+    "title": "Презентация ценности продукта",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/value_presentation.md",
+    "tags": [
+      "value_presentation",
+      "Презентация ценности продукта",
+      "Value Presentation"
+    ]
+  },
+  {
+    "material_id": "mat_product_knowledge",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "product_knowledge",
+    "title": "Знание продукта",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/product_knowledge.md",
+    "tags": [
+      "product_knowledge",
+      "Знание продукта",
+      "Product Knowledge"
+    ]
+  },
+  {
+    "material_id": "mat_objection_handling",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "objection_handling",
+    "title": "Работа с возражениями",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/objection_handling.md",
+    "tags": [
+      "objection_handling",
+      "Работа с возражениями",
+      "Objection Handling"
+    ]
+  },
+  {
+    "material_id": "mat_negotiation",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "negotiation",
+    "title": "Переговоры",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/negotiation.md",
+    "tags": [
+      "negotiation",
+      "Переговоры",
+      "Negotiation"
+    ]
+  },
+  {
+    "material_id": "mat_financial_argumentation",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "financial_argumentation",
+    "title": "Финансовая аргументация",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/financial_argumentation.md",
+    "tags": [
+      "financial_argumentation",
+      "Финансовая аргументация",
+      "Financial Argumentation"
+    ]
+  },
+  {
+    "material_id": "mat_crm_discipline",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "crm_discipline",
+    "title": "CRM-дисциплина",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/crm_discipline.md",
+    "tags": [
+      "crm_discipline",
+      "CRM-дисциплина",
+      "CRM Discipline"
+    ]
+  },
+  {
+    "material_id": "mat_follow_up",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "follow_up",
+    "title": "Follow-up и сопровождение сделки",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/follow_up.md",
+    "tags": [
+      "follow_up",
+      "Follow-up и сопровождение сделки",
+      "Follow-up"
+    ]
+  },
+  {
+    "material_id": "mat_pipeline_management",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "pipeline_management",
+    "title": "Управление воронкой",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/pipeline_management.md",
+    "tags": [
+      "pipeline_management",
+      "Управление воронкой",
+      "Pipeline Management"
+    ]
+  },
+  {
+    "material_id": "mat_stakeholder_mapping",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "stakeholder_mapping",
+    "title": "Работа с лицами влияния",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/stakeholder_mapping.md",
+    "tags": [
+      "stakeholder_mapping",
+      "Работа с лицами влияния",
+      "Stakeholder Mapping"
+    ]
+  },
+  {
+    "material_id": "mat_closing",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "closing",
+    "title": "Закрытие сделки",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/closing.md",
+    "tags": [
+      "closing",
+      "Закрытие сделки",
+      "Closing"
+    ]
+  },
+  {
+    "material_id": "mat_communication_quality",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "communication_quality",
+    "title": "Качество деловой коммуникации",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/communication_quality.md",
+    "tags": [
+      "communication_quality",
+      "Качество деловой коммуникации",
+      "Communication Quality"
+    ]
+  },
+  {
+    "material_id": "mat_ethics_compliance",
+    "role_id": "b2b_sales_manager",
+    "competency_id": "ethics_compliance",
+    "title": "Этика и стандарты продаж",
+    "level": "basic_to_strong",
+    "path": "knowledge_base/sales/competencies/ethics_compliance.md",
+    "tags": [
+      "ethics_compliance",
+      "Этика и стандарты продаж",
+      "Ethics and Compliance"
+    ]
+  }
+]

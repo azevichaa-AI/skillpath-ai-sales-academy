@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SkillPath AI Sales Academy</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <nav class="topbar">
+      <div class="brand"><span class="logo">SP</span><span>SkillPath AI Sales Academy</span></div>
+      <div class="navlinks"><a href="#demo">Диагностика</a><a href="/docs" target="_blank">API</a><a href="#pilot">Пилот</a></div>
+    </nav>
+    <div class="hero-grid">
+      <section>
+        <p class="eyebrow">AI-платформа для оценки, обучения и сертификации продаж</p>
+        <h1>Диагностика компетенций и персональные learning tracks для sales-команд</h1>
+        <p class="lead">Платформа помогает компаниям выявлять пробелы в навыках менеджеров по продажам, назначать адресное обучение и проверять применение знаний на практических кейсах.</p>
+        <div class="actions"><a class="btn primary" href="#demo">Запустить диагностику</a><a class="btn" href="/docs" target="_blank">Открыть API</a></div>
+      </section>
+      <aside class="hero-card">
+        <div class="metric"><span>14</span><small>компетенций продаж</small></div>
+        <div class="metric"><span>0–3</span><small>шкала зрелости навыка</small></div>
+        <div class="metric"><span>RAG</span><small>база знаний для материалов и проверки</small></div>
+      </aside>
+    </div>
+  </header>
+
+  <main>
+    <section class="section cards">
+      <article><h3>Бизнес-эффект</h3><p>Обучение назначается по реальным пробелам, а не одинаковым курсом для всех.</p></article>
+      <article><h3>Карта компетенций</h3><p>Руководитель видит сильные стороны, риски и готовность сотрудника к роли.</p></article>
+      <article><h3>Learning track</h3><p>Система формирует маршрут: теория, практика, контрольные вопросы и кейсы.</p></article>
+    </section>
+
+    <section class="section" id="how">
+      <h2>Как работает платформа</h2>
+      <div class="steps">
+        <div>1<span>Модель роли</span></div><div>2<span>Диагностика</span></div><div>3<span>Карта пробелов</span></div><div>4<span>Обучение</span></div><div>5<span>Контроль</span></div><div>6<span>Отчёт</span></div>
+      </div>
+    </section>
+
+    <section class="section" id="demo">
+      <div class="section-head">
+        <div><p class="eyebrow">Интерактивная демонстрация</p><h2>Диагностика менеджера по продажам</h2></div>
+        <button class="btn primary" id="runBtn">Запустить диагностику</button>
+      </div>
+      <div class="demo-layout">
+        <aside class="panel">
+          <h3>Профиль сотрудника</h3>
+          <div id="profiles" class="profile-list"></div>
+        </aside>
+        <section class="panel result-panel">
+          <div id="summary" class="summary">Выберите профиль и запустите диагностику.</div>
+          <h3>Карта компетенций</h3>
+          <div id="competencies" class="competency-grid"></div>
+          <h3>Персональный learning track</h3>
+          <div id="track" class="track"></div>
+        </section>
+      </div>
+    </section>
+
+    <section class="section panel">
+      <h2>Проверка ответа по базе знаний</h2>
+      <p>Введите ответ сотрудника на контрольный вопрос. Система сопоставит его с критериями и материалами базы знаний.</p>
+      <label>Компетенция</label>
+      <select id="competencySelect"></select>
+      <label>Контрольный вопрос</label>
+      <input id="questionInput" value="Клиент говорит: у вас слишком дорого. Как должен ответить менеджер?" />
+      <label>Ответ сотрудника</label>
+      <textarea id="answerInput">Нужно уточнить, что именно клиент сравнивает, понять критерии выбора, показать ценность решения и договориться о следующем шаге.</textarea>
+      <button class="btn primary" id="checkBtn">Проверить ответ</button>
+      <div id="checkResult" class="feedback-box"></div>
+    </section>
+
+    <section class="section" id="pilot">
+      <h2>Формат пилотного внедрения</h2>
+      <div class="cards">
+        <article><h3>1. Настройка роли</h3><p>Фиксируются компетенции, уровни и стандарты компании.</p></article>
+        <article><h3>2. Диагностика команды</h3><p>Сотрудники проходят тесты, кейсы и контрольные вопросы.</p></article>
+        <article><h3>3. Развитие и отчёты</h3><p>Руководитель получает карту пробелов и персональные маршруты развития.</p></article>
+      </div>
+    </section>
+  </main>
+
+  <footer>SkillPath AI Sales Academy · FastAPI · RAG Knowledge Base · Deploy-ready MVP</footer>
+  <script src="/static/app.js"></script>
+</body>
+</html>
